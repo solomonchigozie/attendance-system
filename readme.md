@@ -1,7 +1,7 @@
-##installation
+## installation
 upload entire folder to XAMPP>htdocs and extract in the htdocs folder
 
-##database setup
+## database setup
 run your xampp software, start apache and mysql
 then open phpmyadmin using the url `localhost/phpmyadmin`
 
